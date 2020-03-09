@@ -29,4 +29,4 @@ def weatherAPi():
     return '<h1>Welcome to weather app</h1>'
 
 if __name__ == '__main__':
-    app.run(host="localhost", port=808, debug=False)
+    app.run(host="localhost", port=8080, debug=False)
