@@ -20,3 +20,7 @@ Get Weather information
 9. Now add "/v1/weather" to url to get default city weather details(which is melbourne).
 
 10. Or add "/v1/weather?city=melbourne" to URL to get specific city  weather details.
+
+11. http://api.weatherstack.com/ is default weather API to get details. In case API is not up it will redirect to "http://api.openweathermap.org/".
+
+12. You will see output in JSON formate. Temp in celsius and wind speed.
