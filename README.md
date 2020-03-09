@@ -1,6 +1,11 @@
 # weatherAPI
 Get Weather information
 
+Prerequisette :- 
+
+Should have install Python and should have install Python IDE (PyCharm).
+
+
 1. Get the code using git clone https://github.com/shivamshukla-88/weatherAPI.git or download zip file.
 
 2. After downloading create project in Python IDE, can download PyCharm IDE.
