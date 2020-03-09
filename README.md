@@ -12,7 +12,7 @@ Should have install Python and should have install Python IDE (PyCharm).
 
 3. Once you have created, Open downloaded files into project.
 
-4. You should see 4 file authDetails, openWeatherMap, weatherStack and weatherApiCall.
+4. You should see 4 files authDetails, openWeatherMap, weatherStack and weatherApiCall.
 
 5. create login in http://api.weatherstack.com/ and generate "Access key". create login in http://api.openweathermap.org/ and generate "API key". We will use it to fetch the weather information later.
 
@@ -28,4 +28,4 @@ Should have install Python and should have install Python IDE (PyCharm).
 
 11. http://api.weatherstack.com/ is default weather API to get details. In case API is not up it will redirect to "http://api.openweathermap.org/".
 
-12. You will see output in JSON formate. Temp in celsius and wind speed.
+12. You will see output in JSON formate. Temprature in celsius and wind speed.
