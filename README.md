@@ -28,4 +28,5 @@ Should have install Python and should have install Python IDE (PyCharm).
 
 11. http://api.weatherstack.com/ is default weather API to get details. In case API is not up it will redirect to "http://api.openweathermap.org/".
 
-12. You will see output in JSON formate. Temprature in celsius and wind speed.
+12. You will see output in JSON format. Temprature in celsius and wind speed.
+   Output format : {"temperature_degrees":19,"wind_speed":24}
