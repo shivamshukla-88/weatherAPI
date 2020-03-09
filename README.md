@@ -1,0 +1,2 @@
+# weatherAPI
+Get Weather information
